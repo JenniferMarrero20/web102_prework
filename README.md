@@ -23,7 +23,7 @@ I plan to edit the CSS file to add more visuals to the website. I will most like
 
 Here's a walkthrough of implemented features:
 
-<img src="C:\Users\Jenny\Coding_Projects\WEB102_Prework_Jennifer_Marrero"/>
+<img src="C:\Users\Jenny\Coding_Projects\WEB102_Prework_Jennifer_Marrero.gif"/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ClipChamp for Windows  
