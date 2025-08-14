@@ -28,7 +28,7 @@ Here's a walkthrough of implemented features:
 <!-- Replace this with whatever GIF tool you used! -->
 ![WEB102_Prework_Jennifer_Marrero](https://github.com/user-attachments/assets/d7a7d941-f2a6-48ec-ac61-17682dfe278b)
 
-GIF created with ClipChamp for Windows  
+GIF created with LICEcap for Windows.  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
