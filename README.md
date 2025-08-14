@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - Crowdfunding Website
 
-Submitted by: **Your Name Here**
+Submitted by: Jennifer Marrero
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+Crowdfunding Website is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-
+I plan to edit the CSS file to add more visuals to the website. I will most likely add patterns or draw images on my own and add them to the site.  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
@@ -36,9 +36,10 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+The challenges I faced the most involved the functions related to the DOM (Document Object Model). During my time in WEB101, I mostly faced beginner Javascript, and it had been a while since I took the course. This time, I was also faced with append functions and template literals, which I found to be the most confusing. However, I understood arrays and the "...rest".
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Jennifer Marrero]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
